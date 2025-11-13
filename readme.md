@@ -115,6 +115,48 @@ Start as a humble cloud gatherer and become a master of the skies. Unlock everyt
 
 ---
 
+# 🐦 Pets & 🤖 Auto-Collectors – Cloud Kingdom Tycoon
+
+---
+
+## 🐦 Pets (Cloud Companions)
+
+| 🏷️ Tier | 🐾 Pet Name | ✨ Effect / Bonus | 🎨 Visual / Personality |
+|---------|------------|-----------------|------------------------|
+| Early / Common | Puff the Cloud Cat | Auto-collects small clouds (+5% SkyCoins) | Fluffy, white cat floating on tiny clouds |
+| Early / Common | Drizzle Duckling | Leaves tiny rain trails that slightly boost Drizzle generation | Yellow duckling with tiny umbrella |
+| Early / Common | Nimbus Bunny | Hops on clouds; occasional low-tier cloud multiplier | White bunny with cloud-shaped ears |
+| Mid / Uncommon | Storm Squirrel | Spins mini tornadoes; +10% weather generation speed for 10s | Energetic grey squirrel with lightning sparks |
+| Mid / Uncommon | Frost Fox | Adds snowflake multipliers; boosts Snow generation | Light blue fox with frosty tail |
+| Mid / Uncommon | Rainbow Parrot | Collects rainbow fragments; chance to double Rainbow payout | Colorful parrot with glittering wings |
+| Late / Rare | Thunder Eagle | Creates mini lightning strikes; auto-generates Thunderstorm weather | Large eagle with electric feathers |
+| Late / Rare | Aurora Owl | Glows in Northern Lights; passive SkyCoins multiplier | Elegant owl with glowing aurora wings |
+| Late / Legendary | Hurricane Dragon | Auto-collects all clouds; boosts rare weather by 50% | Massive dragon with stormy cloud wings |
+
+---
+
+## 🤖 Auto-Collectors
+
+| 🏷️ Tier | ⚙️ Collector Name | ✨ Effect / Bonus | 🎨 Visual / Personality |
+|---------|-----------------|-----------------|------------------------|
+| Early / Common | Mini Cloud Harvester | Auto-collects common clouds | Small machine with rotating scoop arms |
+| Early / Common | Rain Bucket | Converts clouds into Rain weather automatically | Wooden bucket with spout and raindrops |
+| Early / Common | Fog Fan | Pulls in low-tier clouds to increase Fog generation | Fan with swirling mist around it |
+| Mid / Uncommon | Storm Tower | Periodically generates Thunderstorm clouds | Tall tower with small lightning rods |
+| Mid / Uncommon | Snow Cannon | Produces Snow weather clouds automatically | Cannon that shoots out soft snowflakes |
+| Mid / Uncommon | Rainbow Prism | Converts small weather types into rainbow fragments | Crystal prism reflecting colorful light |
+| Late / Rare | Hail Launcher | Launches Hailstorm clouds to storage; high yield | Metallic launcher with icy spikes |
+| Late / Rare | Aurora Beacon | Generates Aurora weather fragments; boosts nearby collectors | Tower emitting glowing aurora light |
+| Late / Legendary | Hurricane Engine | Pulls clouds from all islands; auto-generates Hurricane weather | Massive mechanical engine surrounded by swirling clouds |
+
+---
+
+### 💡 Notes / Synergy Ideas
+- Pets can **enhance specific collectors**, e.g., Frost Fox boosts Snow Cannon efficiency.  
+- **Event-only pets or collectors** can be added for seasonal rewards (Snowman Pet, Halloween Fog Machine).  
+- **Hybrid collectors**: Combine multiple low-tier collectors to produce a higher-tier weather type.  
+
+
 ## 🔮 Optional Endgame Features
 
 - ⚡ **Weather Fusion:** Combine 2 weather types for hybrid effects  
