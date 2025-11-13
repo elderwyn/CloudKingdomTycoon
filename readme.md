@@ -1,3 +1,4 @@
+<center><img src="assets/title.png" width="1000" /></center>
 # ☁️🌈 Cloud Kingdom Tycoon – Game Design Overview 🌩️⛈️
 
 ---
