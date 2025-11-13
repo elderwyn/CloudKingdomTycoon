@@ -123,7 +123,7 @@ Start as a humble cloud gatherer and become a master of the skies. Unlock everyt
 
 | 🏷️ Tier | 🐾 Pet Name | ✨ Effect / Bonus | 🎨 Visual / Personality |
 |---------|------------|-----------------|------------------------|
-| Early / Common | Puff the Cloud Cat | Auto-collects small clouds (+5% SkyCoins) | Fluffy, white cat floating on tiny clouds |
+| Early / Common | Fluffy the Cloud Cat | Auto-collects small clouds (+5% SkyCoins) | Fluffy, white cat floating on tiny clouds |
 | Early / Common | Drizzle Duckling | Leaves tiny rain trails that slightly boost Drizzle generation | Yellow duckling with tiny umbrella |
 | Early / Common | Nimbus Bunny | Hops on clouds; occasional low-tier cloud multiplier | White bunny with cloud-shaped ears |
 | Mid / Uncommon | Storm Squirrel | Spins mini tornadoes; +10% weather generation speed for 10s | Energetic grey squirrel with lightning sparks |
@@ -131,7 +131,7 @@ Start as a humble cloud gatherer and become a master of the skies. Unlock everyt
 | Mid / Uncommon | Rainbow Parrot | Collects rainbow fragments; chance to double Rainbow payout | Colorful parrot with glittering wings |
 | Late / Rare | Thunder Eagle | Creates mini lightning strikes; auto-generates Thunderstorm weather | Large eagle with electric feathers |
 | Late / Rare | Aurora Owl | Glows in Northern Lights; passive SkyCoins multiplier | Elegant owl with glowing aurora wings |
-| Late / Legendary | Hurricane Dragon | Auto-collects all clouds; boosts rare weather by 50% | Massive dragon with stormy cloud wings |
+| Late / Legendary | Puff the magic Dragon | Auto-collects all clouds; boosts rare weather by 50% | Massive dragon with stormy cloud wings |
 
 ---
 
